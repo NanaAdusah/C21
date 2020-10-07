@@ -1,2 +1,2 @@
-# C21
-Expanding on the Collision Algorithm
+# collisionAlgorithm
+Algorithm to detect collision between two objects
